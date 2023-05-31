@@ -2,6 +2,8 @@
 
 ## Content
 
+The directory structure is as follows:
+
 ```txt
 .
 ├── README.md
