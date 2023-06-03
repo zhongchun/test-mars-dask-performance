@@ -1,6 +1,6 @@
 # README
 
-## Content
+## Directory Structure
 
 The directory structure is as follows:
 
@@ -26,7 +26,7 @@ The directory structure is as follows:
 2 directories, 14 files
 ```
 
-## Env
+## Environment
 
 ```shell
 Python: 3.7.9
